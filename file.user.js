@@ -13,9 +13,9 @@
 (function() {
     'use strict';
 
-    const PUSHER_KEY = 'YOUR_PUBLIC_KEY';
-    const PUSHER_CLUSTER = 'YOUR_CLUSTER';
-    const SERVER_URL = 'http://YOUR_SERVER_IP:3000'; // Replace with IP or cloud URL
+    const PUSHER_KEY = 'ccc021de100d33e2beb3';
+    const PUSHER_CLUSTER = 'us2';
+    const SERVER_URL = 'https://remote-server-t2dh.onrender.com/'; // Replace with IP or cloud URL
 
     // 1. Persistent Worker ID
     let workerId = GM_getValue('worker_id', null);
