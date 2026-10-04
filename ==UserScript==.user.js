@@ -5,7 +5,7 @@
 // @match        https://*/*
 // @grant        GM_getValue
 // @grant        GM_setValue
-// @updateURL    https://YOUR_SERVER_OR_GITHUB_URL/script.user.js
+// @updateUR   https://YOUR_SERVER_OR_GITHUB_URL/script.user.js
 // @downloadURL  // ==UserScript==
 // @name         Child Computer Agent
 // @namespace    http://tampermonkey.net/
